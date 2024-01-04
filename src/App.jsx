@@ -18,9 +18,11 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn React for free
           </a>
         </p>
+        <p>What else you wanna learn?</p>
+        <a href="#">Contact Us</a>
       </header>
     </div>
   );
